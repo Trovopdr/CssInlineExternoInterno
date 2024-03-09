@@ -1,22 +1,22 @@
 .divA{
     background: #2e0085; 
-    width: 500px; 
-    height: 500px;
+    width: 1500px; 
+    height: 1500px;
 }
 .divB{
     background: #655f83;
-    width: 250px;
-    height: 250px;
+    width: 750px;
+    height: 750px;
 }
 .divC{
     color: rgb(0, 0, 0);
     background: rgb(122, 130, 238);
-    font-size: 25px;
+    font-size: 55px;
     font-family: monospace;
     font-weight: bold;
 }
 .divD{
-    width: 50%;
+    width: 20%;
     height: 50vh;
     background: #0478c5;
 }
